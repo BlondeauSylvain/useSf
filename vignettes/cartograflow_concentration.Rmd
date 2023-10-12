@@ -10,7 +10,7 @@ vignette: >
               dvipsone=pdftex,                                
               backref,
               ]{hyperref}
-  %\VignetteIndexEntry{CartogRaflow}
+  %\VignetteIndexEntry{Cartograflow}
   %\VignetteEncoding{UTF-8}
   %\SweaveUTF8
   %\VignetteEngine{knitr::rmarkdown}
